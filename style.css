@@ -1,8 +1,26 @@
+body{
+    background-image: url("images/grunge-paint-background_1409-1337.jpg")
+}
 h1 {
+    text-align: center ;
     color: blue;
     font-family: verdana;
-    font-size: 300%;
-}suka
- p{
     font-size: 50pt;
+}
+ p{
+    font-size: 15pt;
+     /*text-align: right;*/
  }
+ ul{
+     /*text-align: center;*/
+     font-size: 40pt;
+
+ }
+ ol{
+     font-size: 25pt;
+ }
+ .list {
+
+     padding: 0 100pt;
+ }
+
